@@ -2090,7 +2090,7 @@
 	"INPUT_GROUP_home_scene_scene_name": "main_elements",
 	"INPUT_GROUP_homeScene_group_0_name": "main",
 	"INPUT_GROUP_homeScene_group_1_name": "secondary",
-	"INPUT_Element_4_About_text3d_text": "Founded in 2012\n\nWe blend story, art & technology as an in-house team of passionate makers\n\nOur industry-leading web toolset consistently delivers award-winning work through quality & performance",
+	"INPUT_Element_4_About_text3d_text": "Gelecegin Teknolojisi\n\nEssiz tasarım ve yazılımın bir araya geldigi devir.\n\nFarklılık bir adım önde olmaktır.",
 	"INPUT_Element_4_About_text3d_data": "{\"font\":\"NBArchitektStd-Regular\",\"size\":0.075,\"lineHeight\":2,\"width\":2}",
 	"INPUT_Element_4_About_text3d_fontStyle": "font: NBArchitektStd-Regular\nsize: 0.075\nlineHeight: 2\nwidth: 2",
 	"INPUT_Element_4_About_text3d_renderRetina": false,
