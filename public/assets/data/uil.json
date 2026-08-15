@@ -2144,7 +2144,7 @@
 	"INPUT_Element_2_home_scenetlb_conf_transform": "[0,0.12000000000000002]",
 	"INPUT_Element_2_home_scenetlb_conf_orientation": "xy",
 	"INPUT_Element_2_home_scenetlb_conf_scale": "[0.34999999999999987,0.3599999999999999]",
-	"INPUT_Element_3_About_text3d_text": "Creative\nDigital\nExperiences",
+	"INPUT_Element_3_About_text3d_text": "Erkan\nUYAN",
 	"INPUT_Element_3_About_text3d_data": "{\"font\":\"NBArchitektStd-Regular\",\"size\":0.5,\"lineHeight\":1.1,\"align\":\"left\"}",
 	"INPUT_Element_3_About_text3d_fontStyle": "font: NBArchitektStd-Regular\nsize: 0.5\nlineHeight: 1.1\nalign: left",
 	"INPUT_Element_3_About_text3d_renderRetina": false,
