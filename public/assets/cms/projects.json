@@ -1,35 +1,104 @@
 [
   {
-    "name": "QR Menu",
-    "description": "Kafe ve restoranlar icin qr menu hizmeti.",
+    "name": "QR Menü Sistemi",
+    "description": "Restoranlar için temassız sipariş deneyimi sunan, QR kod ile açılan hızlı ve mobil uyumlu dijital menü uygulaması.",
     "priority": 1,
-    "uiColor": "dddddd",
-    "completionDate": "2026",
-    "clientName": "Erkan UYAN",
-    "tags": "site, webgl",
-    "projectLogo": "/assets/media/prometheus-logo.png",
-    "slug": "prometheus",
+    "uiColor": "e8622c",
+    "completionDate": "2024-02-10",
+    "clientName": "Erkan Uyan",
+    "tags": "web, qr, restoran",
+    "projectLogo": "/assets/media/qr-menu-logo.png",
+    "slug": "qr-menu",
     "caseStudyURL": "",
     "projectURL": "",
     "video": {
-      "url": "/assets/media/prometheus.mp4",
-      "thumbnail": "/assets/media/prometheus-thumb.jpg"
+      "url": "/assets/media/qr-menu.mp4",
+      "thumbnail": "/assets/media/qr-menu-thumb.jpg"
     }
-    {
-    "name": "Grafik Tasarim",
-    "description": "Her alanda grafik tasarim.",
+  },
+  {
+    "name": "Marka Kimliği & Grafik Tasarım",
+    "description": "Küçük işletmeler için logo, renk paleti ve tam kurumsal kimlik dosyalarının hazırlandığı grafik tasarım projesi.",
     "priority": 2,
-    "uiColor": "dddddd",
-    "completionDate": "2026",
-    "clientName": "Erkan UYAN",
-    "tags": "grafik, webgl",
-    "projectLogo": "/assets/media/prometheus-logo.png",
-    "slug": "prometheus",
+    "uiColor": "9b59b6",
+    "completionDate": "2024-04-22",
+    "clientName": "Erkan Uyan",
+    "tags": "grafik tasarım, branding, logo",
+    "projectLogo": "/assets/media/branding-logo.png",
+    "slug": "marka-kimligi",
     "caseStudyURL": "",
     "projectURL": "",
     "video": {
-      "url": "/assets/media/prometheus.mp4",
-      "thumbnail": "/assets/media/prometheus-thumb.jpg"
+      "url": "/assets/media/branding.mp4",
+      "thumbnail": "/assets/media/branding-thumb.jpg"
+    }
+  },
+  {
+    "name": "Oyun Tasarim",
+    "description": "Unity ile geliştirilen, 2D piksel sanatlı bulmaca-platform tarzı bir mobil oyun tasarımı.",
+    "priority": 3,
+    "uiColor": "1abc9c",
+    "completionDate": "2024-06-15",
+    "clientName": "Erkan Uyan",
+    "tags": "oyun tasarımı, unity, mobil",
+    "projectLogo": "/assets/media/piksel-kacis-logo.png",
+    "slug": "piksel-kacis",
+    "caseStudyURL": "",
+    "projectURL": "",
+    "video": {
+      "url": "/assets/media/piksel-kacis.mp4",
+      "thumbnail": "/assets/media/piksel-kacis-thumb.jpg"
+    }
+  },
+  {
+    "name": "E-Ticaret Panosu",
+    "description": "React ve Node.js ile geliştirilen, gerçek zamanlı stok ve sipariş takibi yapan yönetici paneli.",
+    "priority": 4,
+    "uiColor": "5b8def",
+    "completionDate": "2024-08-03",
+    "clientName": "Erkan Uyan",
+    "tags": "web, full-stack, dashboard",
+    "projectLogo": "/assets/media/eticaret-logo.png",
+    "slug": "eticaret-panosu",
+    "caseStudyURL": "",
+    "projectURL": "",
+    "video": {
+      "url": "/assets/media/eticaret-panosu.mp4",
+      "thumbnail": "/assets/media/eticaret-panosu-thumb.jpg"
+    }
+  },
+  {
+    "name": "Etkinlik Davetiye Tasarımı",
+    "description": "Düğün ve kurumsal etkinlikler için baskıya hazır dijital davetiye ve afiş tasarım seti.",
+    "priority": 5,
+    "uiColor": "f1c40f",
+    "completionDate": "2024-10-11",
+    "clientName": "Erkan Uyan",
+    "tags": "grafik tasarım, print, davetiye",
+    "projectLogo": "/assets/media/davetiye-logo.png",
+    "slug": "davetiye-tasarimi",
+    "caseStudyURL": "",
+    "projectURL": "",
+    "video": {
+      "url": "/assets/media/davetiye.mp4",
+      "thumbnail": "/assets/media/davetiye-thumb.jpg"
+    }
+  },
+  {
+    "name": "3D Modelleme & Baski",
+    "description": "Godot motoruyla geliştirilen, stratejik kule savunma mekanikli tarayıcı tabanlı oyun tasarımı.",
+    "priority": 6,
+    "uiColor": "e74c3c",
+    "completionDate": "2025-01-05",
+    "clientName": "Erkan Uyan",
+    "tags": "oyun tasarımı, godot, strateji",
+    "projectLogo": "/assets/media/kale-savunmasi-logo.png",
+    "slug": "kale-savunmasi",
+    "caseStudyURL": "",
+    "projectURL": "",
+    "video": {
+      "url": "/assets/media/kale-savunmasi.mp4",
+      "thumbnail": "/assets/media/kale-savunmasi-thumb.jpg"
     }
   }
 ]
