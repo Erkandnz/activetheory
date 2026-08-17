@@ -1,12 +1,12 @@
 [
   {
-    "name": "Prometheus",
-    "description": "Kısa proje açıklaması",
+    "name": "QR Menu",
+    "description": "Kafe ve restoranlar icin qr menu hizmeti.",
     "priority": 1,
     "uiColor": "dddddd",
-    "completionDate": "2023-05-01",
-    "clientName": "Client Adı",
-    "tags": "3d, webgl",
+    "completionDate": "2026",
+    "clientName": "Erkan UYAN",
+    "tags": "site, webgl",
     "projectLogo": "/assets/media/prometheus-logo.png",
     "slug": "prometheus",
     "caseStudyURL": "",
