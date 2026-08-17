@@ -15,5 +15,21 @@
       "url": "/assets/media/prometheus.mp4",
       "thumbnail": "/assets/media/prometheus-thumb.jpg"
     }
+    {
+    "name": "Grafik Tasarim",
+    "description": "Her alanda grafik tasarim.",
+    "priority": 2,
+    "uiColor": "dddddd",
+    "completionDate": "2026",
+    "clientName": "Erkan UYAN",
+    "tags": "grafik, webgl",
+    "projectLogo": "/assets/media/prometheus-logo.png",
+    "slug": "prometheus",
+    "caseStudyURL": "",
+    "projectURL": "",
+    "video": {
+      "url": "/assets/media/prometheus.mp4",
+      "thumbnail": "/assets/media/prometheus-thumb.jpg"
+    }
   }
 ]
