@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Prometheus",
+    "description": "Kısa proje açıklaması",
+    "priority": 1,
+    "uiColor": "dddddd",
+    "completionDate": "2023-05-01",
+    "clientName": "Client Adı",
+    "tags": "3d, webgl",
+    "projectLogo": "/assets/media/prometheus-logo.png",
+    "slug": "prometheus",
+    "caseStudyURL": "",
+    "projectURL": "",
+    "video": {
+      "url": "/assets/media/prometheus.mp4",
+      "thumbnail": "/assets/media/prometheus-thumb.jpg"
+    }
+  }
+]
