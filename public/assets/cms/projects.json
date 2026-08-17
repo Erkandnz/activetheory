@@ -55,7 +55,7 @@
     "description": "React ve Node.js ile gelistirilen, gercek zamanli stok ve siparis takibi yapan yonetici paneli.",
     "priority": 4,
     "uiColor": "5b8def",
-    "completionDate": "2026-08-03",
+    "completionDate": "2024-08-03",
     "clientName": "Erkan Uyan",
     "tags": "web, full-stack, dashboard",
     "projectLogo": "/assets/media/eticaret-logo.png",
@@ -72,7 +72,7 @@
     "description": "Modern teknolojilerle sifirdan gelistirilen, hizli, SEO uyumlu ve responsive kurumsal web sitesi ve web uygulamasi cozumleri.",
     "priority": 5,
     "uiColor": "f1c40f",
-    "completionDate": "2026-10-11",
+    "completionDate": "2024-10-11",
     "clientName": "Erkan Uyan",
     "tags": "web gelistirme, frontend, backend",
     "projectLogo": "/assets/media/web-gelistirme-logo.png",
@@ -89,7 +89,7 @@
     "description": "3D Modelleme: Urun, karakter veya mimari objelerin dijital ortamda sifirdan uc boyutlu olarak tasarlanmasi ve detaylandirilmasi.\n\n3D Baski: Tasarlanan modellerin katmanli uretim teknolojisiyle fiziksel, elle tutulur urunlere donusturulmesi.",
     "priority": 6,
     "uiColor": "e74c3c",
-    "completionDate": "2026-01-05",
+    "completionDate": "2025-01-05",
     "clientName": "Erkan Uyan",
     "tags": "3d modelleme, 3d baski, urun tasarimi",
     "projectLogo": "/assets/media/3d-modelleme-logo.png",
@@ -106,7 +106,7 @@
     "description": "Tanitim filmlerinden sosyal medya icerigine kadar, renk duzenleme ve ses miksajiyla profesyonel video kurgu hizmeti.",
     "priority": 7,
     "uiColor": "34495e",
-    "completionDate": "2026-03-12",
+    "completionDate": "2025-03-12",
     "clientName": "Erkan Uyan",
     "tags": "video edit, kurgu, motion",
     "projectLogo": "/assets/media/video-edit-logo.png",
@@ -116,6 +116,57 @@
     "video": {
       "url": "/assets/media/video-edit.mp4",
       "thumbnail": "/assets/media/video-edit-thumb.jpg"
+    }
+  },
+  {
+    "name": "Mobil Uygulama Gelistirme",
+    "description": "React Native ve Flutter ile iOS ve Android icin tek kod tabanindan calisan, hizli ve olceklenebilir mobil uygulamalar gelistirme hizmeti.",
+    "priority": 8,
+    "uiColor": "3498db",
+    "completionDate": "2025-05-20",
+    "clientName": "Erkan Uyan",
+    "tags": "mobil, react native, flutter",
+    "projectLogo": "/assets/media/mobil-uygulama-logo.png",
+    "slug": "mobil-uygulama-gelistirme",
+    "caseStudyURL": "",
+    "projectURL": "",
+    "video": {
+      "url": "/assets/media/mobil-uygulama.mp4",
+      "thumbnail": "/assets/media/mobil-uygulama-thumb.jpg"
+    }
+  },
+  {
+    "name": "Yapay Zeka Chatbot Entegrasyonu",
+    "description": "Web sitesi ve mobil uygulamalara entegre edilen, musteri destegi ve satis surecini otomatiklestiren ozel yapay zeka chatbot cozumleri.",
+    "priority": 9,
+    "uiColor": "8e44ad",
+    "completionDate": "2025-07-08",
+    "clientName": "Erkan Uyan",
+    "tags": "yapay zeka, chatbot, otomasyon",
+    "projectLogo": "/assets/media/chatbot-logo.png",
+    "slug": "yapay-zeka-chatbot",
+    "caseStudyURL": "",
+    "projectURL": "",
+    "video": {
+      "url": "/assets/media/chatbot.mp4",
+      "thumbnail": "/assets/media/chatbot-thumb.jpg"
+    }
+  },
+  {
+    "name": "SEO ve Performans Optimizasyonu",
+    "description": "Web sitelerinin arama motoru siralamasini ve yuklenme hizini artiran, teknik SEO ve performans iyilestirme calismalari.",
+    "priority": 10,
+    "uiColor": "27ae60",
+    "completionDate": "2025-09-14",
+    "clientName": "Erkan Uyan",
+    "tags": "seo, performans, optimizasyon",
+    "projectLogo": "/assets/media/seo-logo.png",
+    "slug": "seo-performans-optimizasyonu",
+    "caseStudyURL": "",
+    "projectURL": "",
+    "video": {
+      "url": "/assets/media/seo-performans.mp4",
+      "thumbnail": "/assets/media/seo-performans-thumb.jpg"
     }
   }
 ]
