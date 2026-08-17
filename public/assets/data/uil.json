@@ -2100,7 +2100,7 @@
 	"INPUT_Element_5_WorkDetailContent_text3d_text": "MUSEUM OF WEED",
 	"INPUT_Element_5_WorkDetailContent_text3d_data": "{\"font\":\"NBArchitektStd-Regular\",\"size\":0.4,\"letterSpacing\":0.05,\"lineHeight\":1.2,\"color\":\"#888888\",\"width\":2.5,\"align\":\"center\"}",
 	"INPUT_Element_5_WorkDetailContent_text3d_fontStyle": "font: NBArchitektStd-Regular\nsize: 0.4\nletterSpacing: 0.05\nlineHeight: 1.2\ncolor: #888888\nwidth: 2.5\nalign: center",
-	"INPUT_Element_7_WorkDetailContent_text3d_text": "Scroll to close",
+	"INPUT_Element_7_WorkDetailContent_text3d_text": "Kapatmak icin kaydırın",
 	"INPUT_Element_7_WorkDetailContent_text3d_data": "{\"font\":\"NBArchitektStd-Regular\",\"size\":0.07,\"lineHeight\":1.6,\"color\":\"#aaaaaa\",\"width\":2.2,\"align\":\"center\"}",
 	"INPUT_Element_7_WorkDetailContent_text3d_fontStyle": "font: NBArchitektStd-Regular\nsize: 0.07\nlineHeight: 1.6\ncolor: #aaaaaa\nwidth: 2.2\nalign: center",
 	"INPUT_Element_8_WorkDetailContent_text3d_text": "2017\nVICE\nINSTALLATION",
