@@ -1,6 +1,6 @@
 [
   {
-    "name": "QR Menü Sistemi",
+    "name": "QR Menu Sistemi",
     "description": "Restoranlar için temassız sipariş deneyimi sunan, QR kod ile açılan hızlı ve mobil uyumlu dijital menü uygulaması.",
     "priority": 1,
     "uiColor": "e8622c",
@@ -17,7 +17,7 @@
     }
   },
   {
-    "name": "Marka Kimliği & Grafik Tasarım",
+    "name": "Marka Kimligi & Grafik Tasarim",
     "description": "Küçük işletmeler için logo, renk paleti ve tam kurumsal kimlik dosyalarının hazırlandığı grafik tasarım projesi.",
     "priority": 2,
     "uiColor": "9b59b6",
@@ -68,7 +68,7 @@
     }
   },
   {
-    "name": "Etkinlik Davetiye Tasarımı",
+    "name": "Etkinlik Davetiye Tasarimi",
     "description": "Düğün ve kurumsal etkinlikler için baskıya hazır dijital davetiye ve afiş tasarım seti.",
     "priority": 5,
     "uiColor": "f1c40f",
