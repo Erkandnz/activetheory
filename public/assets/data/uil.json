@@ -2603,10 +2603,10 @@
 	},
 	"LabLogoShader/LabLogoShader/Element_22_CleanRoom/_tx_tMap": {
 		"compressed": false,
-		"filename": "at-labrds.jpg",
+		"filename": "at-labrdsss.jpg",
 		"prefix": "assets/images",
 		"relative": "assets/images",
-		"src": "assets/images/ui/at-labrds.jpg",
+		"src": "assets/images/ui/at-labrdsss.jpg",
 		"useCompressed": false
 	},
 	"LightVolume/LightVolume/Element_6_ParticleTest/uAlpha": 0.2,
@@ -4623,18 +4623,18 @@
 	"SceneLayout/SceneLayout/Element_20_home_scene/_tx_tMap": "{\"src\":\"assets/images/02_view_dependant_color_gradients.jpg\",\"relative\":\"\",\"prefix\":\"assets/images\",\"filename\":\"02_view_dependant_color_gradients.jpg\",\"compressed\":false}",
 	"SceneLayout/SceneLayout/Element_22_CleanRoom/_tx_tMap": {
 		"compressed": false,
-		"filename": "at-labrds.jpg",
+		"filename": "at-labrdsss.jpg",
 		"prefix": "assets/images",
 		"relative": "assets/images",
-		"src": "assets/images/ui/at-labrds.jpg",
+		"src": "assets/images/ui/at-labrdsss.jpg",
 		"useCompressed": false
 	},
 	"SceneLayout/SceneLayout/Element_22_CleanRoom/_txtMap": {
 		"compressed": false,
-		"filename": "at-labrds.jpg",
+		"filename": "at-labrdsss.jpg",
 		"prefix": "assets/images",
 		"relative": "assets/images",
-		"src": "assets/images/ui/at-labrds.jpg",
+		"src": "assets/images/ui/at-labrdsss.jpg",
 		"useCompressed": false
 	},
 	"SceneLayout/SceneLayout/Element_22_CleanRoom/uAlpha": 0.6,
