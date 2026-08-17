@@ -1,7 +1,7 @@
 [
   {
     "name": "QR Menu Sistemi",
-    "description": "Restoranlar için temassız sipariş deneyimi sunan, QR kod ile açılan hızlı ve mobil uyumlu dijital menü uygulaması.",
+    "description": "Restoranlar icin temassiz siparis deneyimi sunan, QR kod ile acilan hizli ve mobil uyumlu dijital menu uygulamasi.",
     "priority": 1,
     "uiColor": "e8622c",
     "completionDate": "2026-02-10",
@@ -18,12 +18,12 @@
   },
   {
     "name": "Marka Kimligi & Grafik Tasarim",
-    "description": "Küçük işletmeler için logo, renk paleti ve tam kurumsal kimlik dosyalarının hazırlandığı grafik tasarım projesi.",
+    "description": "Kucuk isletmeler icin logo, renk paleti ve tam kurumsal kimlik dosyalarinin hazirlandigi grafik tasarim projesi.",
     "priority": 2,
     "uiColor": "9b59b6",
     "completionDate": "2026-04-22",
     "clientName": "Erkan Uyan",
-    "tags": "grafik tasarım, branding, logo",
+    "tags": "grafik tasarim, branding, logo",
     "projectLogo": "/assets/media/branding-logo.png",
     "slug": "marka-kimligi",
     "caseStudyURL": "",
@@ -35,27 +35,27 @@
   },
   {
     "name": "Oyun Tasarim",
-    "description": "Unity ile geliştirilen, 2D piksel sanatlı bulmaca-platform tarzı bir mobil oyun tasarımı.",
+    "description": "Unreal Engine kullanilarak gelistirilen, gercekci grafikler ve akici oynanis mekanikleriyle tasarlanmis oyun projeleri.",
     "priority": 3,
     "uiColor": "1abc9c",
     "completionDate": "2026-06-15",
     "clientName": "Erkan Uyan",
-    "tags": "oyun tasarımı, unity, mobil",
-    "projectLogo": "/assets/media/piksel-kacis-logo.png",
-    "slug": "piksel-kacis",
+    "tags": "oyun tasarimi, unreal engine, 3d",
+    "projectLogo": "/assets/media/oyun-tasarim-logo.png",
+    "slug": "oyun-tasarim",
     "caseStudyURL": "",
     "projectURL": "",
     "video": {
-      "url": "/assets/media/piksel-kacis.mp4",
-      "thumbnail": "/assets/media/piksel-kacis-thumb.jpg"
+      "url": "/assets/media/oyun-tasarim.mp4",
+      "thumbnail": "/assets/media/oyun-tasarim-thumb.jpg"
     }
   },
   {
     "name": "E-Ticaret Panosu",
-    "description": "React ve Node.js ile geliştirilen, gerçek zamanlı stok ve sipariş takibi yapan yönetici paneli.",
+    "description": "React ve Node.js ile gelistirilen, gercek zamanli stok ve siparis takibi yapan yonetici paneli.",
     "priority": 4,
     "uiColor": "5b8def",
-    "completionDate": "2024-08-03",
+    "completionDate": "2026-08-03",
     "clientName": "Erkan Uyan",
     "tags": "web, full-stack, dashboard",
     "projectLogo": "/assets/media/eticaret-logo.png",
@@ -69,36 +69,53 @@
   },
   {
     "name": "Web Gelistirme",
-    "description": "Düğün ve kurumsal etkinlikler için baskıya hazır dijital davetiye ve afiş tasarım seti.",
+    "description": "Modern teknolojilerle sifirdan gelistirilen, hizli, SEO uyumlu ve responsive kurumsal web sitesi ve web uygulamasi cozumleri.",
     "priority": 5,
     "uiColor": "f1c40f",
-    "completionDate": "2024-10-11",
+    "completionDate": "2026-10-11",
     "clientName": "Erkan Uyan",
-    "tags": "grafik tasarım, print, davetiye",
-    "projectLogo": "/assets/media/davetiye-logo.png",
-    "slug": "davetiye-tasarimi",
+    "tags": "web gelistirme, frontend, backend",
+    "projectLogo": "/assets/media/web-gelistirme-logo.png",
+    "slug": "web-gelistirme",
     "caseStudyURL": "",
     "projectURL": "",
     "video": {
-      "url": "/assets/media/davetiye.mp4",
-      "thumbnail": "/assets/media/davetiye-thumb.jpg"
+      "url": "/assets/media/web-gelistirme.mp4",
+      "thumbnail": "/assets/media/web-gelistirme-thumb.jpg"
     }
   },
   {
     "name": "3D Modelleme & Baski",
-    "description": "Godot motoruyla geliştirilen, stratejik kule savunma mekanikli tarayıcı tabanlı oyun tasarımı.",
+    "description": "3D Modelleme: Urun, karakter veya mimari objelerin dijital ortamda sifirdan uc boyutlu olarak tasarlanmasi ve detaylandirilmasi.\n\n3D Baski: Tasarlanan modellerin katmanli uretim teknolojisiyle fiziksel, elle tutulur urunlere donusturulmesi.",
     "priority": 6,
     "uiColor": "e74c3c",
-    "completionDate": "2025-01-05",
+    "completionDate": "2026-01-05",
     "clientName": "Erkan Uyan",
-    "tags": "oyun tasarımı, godot, strateji",
-    "projectLogo": "/assets/media/kale-savunmasi-logo.png",
-    "slug": "kale-savunmasi",
+    "tags": "3d modelleme, 3d baski, urun tasarimi",
+    "projectLogo": "/assets/media/3d-modelleme-logo.png",
+    "slug": "3d-modelleme-baski",
     "caseStudyURL": "",
     "projectURL": "",
     "video": {
-      "url": "/assets/media/kale-savunmasi.mp4",
-      "thumbnail": "/assets/media/kale-savunmasi-thumb.jpg"
+      "url": "/assets/media/3d-modelleme.mp4",
+      "thumbnail": "/assets/media/3d-modelleme-thumb.jpg"
+    }
+  },
+  {
+    "name": "Video Edit",
+    "description": "Tanitim filmlerinden sosyal medya icerigine kadar, renk duzenleme ve ses miksajiyla profesyonel video kurgu hizmeti.",
+    "priority": 7,
+    "uiColor": "34495e",
+    "completionDate": "2026-03-12",
+    "clientName": "Erkan Uyan",
+    "tags": "video edit, kurgu, motion",
+    "projectLogo": "/assets/media/video-edit-logo.png",
+    "slug": "video-edit",
+    "caseStudyURL": "",
+    "projectURL": "",
+    "video": {
+      "url": "/assets/media/video-edit.mp4",
+      "thumbnail": "/assets/media/video-edit-thumb.jpg"
     }
   }
 ]
