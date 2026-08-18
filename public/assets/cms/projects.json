@@ -30,7 +30,7 @@
     "projectURL": "",
     "video": {
       "url": "/assets/media/branding.mp4",
-      "thumbnail": "/assets/media/branding-thumb.jpg"
+      "thumbnail": "/assets/media/marka.PNG"
     }
   },
   {
@@ -47,7 +47,7 @@
     "projectURL": "",
     "video": {
       "url": "/assets/media/oyun-tasarim.mp4",
-      "thumbnail": "/assets/media/oyun-tasarim-thumb.jpg"
+      "thumbnail": "/assets/media/oyun.PNG"
     }
   },
   {
@@ -115,7 +115,7 @@
     "projectURL": "",
     "video": {
       "url": "/assets/media/video-edit.mp4",
-      "thumbnail": "/assets/media/video-edit-thumb.jpg"
+      "thumbnail": "/assets/media/video.PNG"
     }
   },
   {
@@ -149,7 +149,7 @@
     "projectURL": "",
     "video": {
       "url": "/assets/media/chatbot.mp4",
-      "thumbnail": "/assets/media/ai.PNG"
+      "thumbnail": "/assets/media/yapay.PNG"
     }
   },
   {
