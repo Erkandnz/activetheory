@@ -24,7 +24,7 @@
     "completionDate": "2026-04-22",
     "clientName": "Erkan Uyan",
     "tags": "grafik tasarim, Installation, logo",
-    "projectLogo": "/assets/media/branding-logo.png",
+    "projectLogo": "/assets/media/marka.PNG",
     "slug": "marka-kimligi",
     "caseStudyURL": "",
     "projectURL": "",
@@ -41,7 +41,7 @@
     "completionDate": "2026-06-15",
     "clientName": "Erkan Uyan",
     "tags": "oyun tasarimi, unreal engine, 3d",
-    "projectLogo": "/assets/media/oyun-tasarim-logo.png",
+    "projectLogo": "/assets/media/oyun.PNG",
     "slug": "oyun-tasarim",
     "caseStudyURL": "",
     "projectURL": "",
@@ -64,7 +64,7 @@
     "projectURL": "",
     "video": {
       "url": "/assets/media/eticaret-panosu.mp4",
-      "thumbnail": "/assets/media/eticaret-panosu-thumb.jpg"
+      "thumbnail": "/assets/media/panel.PNG"
     }
   },
   {
@@ -81,7 +81,7 @@
     "projectURL": "",
     "video": {
       "url": "/assets/media/web-gelistirme.mp4",
-      "thumbnail": "/assets/media/web-gelistirme-thumb.jpg"
+      "thumbnail": "/assets/media/web.PNG"
     }
   },
   {
@@ -98,7 +98,7 @@
     "projectURL": "",
     "video": {
       "url": "/assets/media/3d-modelleme.mp4",
-      "thumbnail": "/assets/media/3d-modelleme-thumb.jpg"
+      "thumbnail": "/assets/media/model.PNG"
     }
   },
   {
@@ -109,7 +109,7 @@
     "completionDate": "2025-03-12",
     "clientName": "Erkan Uyan",
     "tags": "video edit, Installation, motion",
-    "projectLogo": "/assets/media/video-edit-logo.png",
+    "projectLogo": "/assets/media/video.PNG",
     "slug": "video-edit",
     "caseStudyURL": "",
     "projectURL": "",
@@ -132,7 +132,7 @@
     "projectURL": "",
     "video": {
       "url": "/assets/media/mobil-uygulama.mp4",
-      "thumbnail": "/assets/media/mobil-uygulama-thumb.jpg"
+      "thumbnail": "/assets/media/mobil.PNG"
     }
   },
   {
@@ -149,7 +149,7 @@
     "projectURL": "",
     "video": {
       "url": "/assets/media/chatbot.mp4",
-      "thumbnail": "/assets/media/chatbot-thumb.jpg"
+      "thumbnail": "/assets/media/ai.PNG"
     }
   },
   {
@@ -166,7 +166,7 @@
     "projectURL": "",
     "video": {
       "url": "/assets/media/seo-performans.mp4",
-      "thumbnail": "/assets/media/seo-performans-thumb.jpg"
+      "thumbnail": "/assets/media/seo.PNG"
     }
   }
 ]
